@@ -1,7 +1,7 @@
 {
   "name": "filefinder",
   "description": "Simple file finder",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "homepage": "https://github.com/goliatone/filefinder",
   "author": {
     "name": "goliatone",
